@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Relay begins a new life with Google Code.
 
 = Introduction =
 
